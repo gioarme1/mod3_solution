@@ -1,0 +1,31 @@
+.navbar-nav {
+    background-color: lightblue;
+
+}
+.ourmenu {
+    font-size: 30px;
+    font-weight: bold;
+
+}
+h2 {
+    text-align: center;
+
+}
+.menu {
+    border: 1px;
+    margin-bottom: 10px;
+
+}
+
+.chicken {
+    background-color: bisque;
+
+}
+.beef {
+    background-color: lightgreen;
+
+}
+.sushi {
+    background-color: darksalmon;
+
+}
